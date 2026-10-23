@@ -55,7 +55,7 @@ const API_BASE = "http://127.0.0.1:2200";   // local
 ### 4. Open the frontend
 
 python -m http.server 5500
-# then visit http://127.0.0.1:5500
+(then visit http://127.0.0.1:5500)
 
 ## API reference
 
