@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / editors / OS
+anaconda_projects/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local config
+.env
+.env.*
+
+# Logs
+*.log
